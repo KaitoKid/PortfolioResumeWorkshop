@@ -35,7 +35,7 @@ A portfolio and resume workshop with HTML5UP to be hosted on Azure
 1. Customize the contact form message to have the personality you want to show.
 2. Start scrolling down through the code until you see the section with social media. Change these links to your own. If you don't have them, just delete the line. ![Social media](https://i.imgur.com/5V8y8cI.png)
 3. Try changing out some of the images for your own, or adding some more panels! You can see the full list of how to customize it, including buttons, quotes, and more in the bottom of the file.
-4. *Delete all the panels you didn't touch after you're done!* They're under the `<!-- Panel -->` tags and in between `<section></section>` tags.
+4. **Delete all the panels you didn't touch after you're done!** They're under the `<!-- Panel -->` tags and in between `<section></section>` tags.
 
 ### Bonus
 1. To change the spacing and location of elements, try playing with the values of the `span` tag! Further customization can be done through learning HTML and CSS online for free. Try doing a Bing search for them!
