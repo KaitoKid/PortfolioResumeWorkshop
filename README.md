@@ -20,7 +20,14 @@ A portfolio and resume workshop with HTML5UP and deployed on Azure
 2. Click on `File` in the top left corner and select `Open`. Browse and locate your `index.html` file.
 3. Your editor should now be displaying all of the HTML for the project! ![Editor setup](https://i.imgur.com/KcUmryR.png)
 
+### Step 3: Editing the basic website info
+1. Locate the text between the `<title>` tags, on line 7. This is the title of your website that will show up in the tab and for search engines. Change it to your name. ![Title](https://i.imgur.com/WmlYffT.png)
+2. If you refresh the page now, it should have the title updated! CHANGE TO EDGE. ![Tab title](https://i.imgur.com/nkhDgBt.png)
+3. Start scrolling down through the code until you see the section with social media. Change these links to your own. If you don't have them, just delete the line. ![Social media](https://i.imgur.com/azwbLxZ.png)
+3. At the bottom of the page, change the word `Untitled` to your name as well. ![Copyright change](https://i.imgur.com/M7xuEuE.png)
 
+### Step 4: Adding Bio info
+1. Scrolling down a bit more to line
 ## Part 2: Setting up Azure
 
 ### Activate Your Azure Pass
@@ -30,5 +37,5 @@ This can be done following the instructions [here](https://www.microsoftazurepas
 
 ## FAQ
 
-### My sample code looks like plain text without styles. ![No CSS](https://i.imgur.com/quEuYDs.png)
+### 1. My sample code looks like plain text without styles. ![No CSS](https://i.imgur.com/quEuYDs.png)
 If it looks like this, you must've not extracted/uploaded the files properly. Please check your folder and file structure again.
