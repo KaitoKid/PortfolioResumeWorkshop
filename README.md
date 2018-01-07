@@ -33,8 +33,8 @@ A portfolio and resume workshop with HTML5UP and deployed on Azure
 ### Finishing Touches
 1. Customize the contact form message to have the personality you want to show.
 2. Start scrolling down through the code until you see the section with social media. Change these links to your own. If you don't have them, just delete the line. ![Social media](https://i.imgur.com/5V8y8cI.png)
-3. Try changing out some of the images for your own, or adding some more panels! You can see the full list of how to customize it, including buttons, quotes, and more in the original source code here: [HTML5UP Ethereal](https://html5up.net/ethereal)
-4. To change the spacing and location of elements, try playing with the values of the `span` tag! Further customization can be done through learning HTML and CSS online for free. Try doing a Bing search for them! 
+3. Try changing out some of the images for your own, or adding some more panels! You can see the full list of how to customize it, including buttons, quotes, and more in the bottom of the file. *Delete them when you're done!*
+4. To change the spacing and location of elements, try playing with the values of the `span` tag! Further customization can be done through learning HTML and CSS online for free. Try doing a Bing search for them!
 5. Want to get the contact form working after learning HTML? Try using this code from [GitHub](https://gist.github.com/ajtroxell/6731408)
 
 ## Part 2: Setting up Azure
@@ -50,3 +50,6 @@ This can be done following the instructions [here](https://www.microsoftazurepas
 
 ### 1. My sample code looks like plain text without styles. ![No CSS](https://i.imgur.com/quEuYDs.png)
 If it looks like this, you must've not extracted/uploaded the files properly. Please check your folder and file structure again.
+
+### 2. How do I load images from Azure instead of `Imgur`?
+Put the image files into the folder `/images` and use the URL `images/myImageName.jpg`. Make sure you have the extension right!
