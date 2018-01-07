@@ -35,6 +35,7 @@ A portfolio and resume workshop with HTML5UP and deployed on Azure
 2. Start scrolling down through the code until you see the section with social media. Change these links to your own. If you don't have them, just delete the line. ![Social media](https://i.imgur.com/5V8y8cI.png)
 3. Try changing out some of the images for your own, or adding some more panels! You can see the full list of how to customize it, including buttons, quotes, and more in the original source code here: [HTML5UP Ethereal](https://html5up.net/ethereal)
 4. To change the spacing and location of elements, try playing with the values of the `span` tag! Further customization can be done through learning HTML and CSS online for free. Try doing a Bing search for them! 
+5. Want to get the contact form working after learning HTML? Try using this code from [GitHub](https://gist.github.com/ajtroxell/6731408)
 
 ## Part 2: Setting up Azure
 
