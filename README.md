@@ -26,16 +26,20 @@ A portfolio and resume workshop with HTML5UP to be hosted on Azure
 3. At the bottom of the page, change the word `Untitled` to your name as well. Leave the `Design` since it's theirs. ![Copyright change](https://i.imgur.com/WYDxMd6.png)
 
 ### Step 4: Editing Body Text
-1. Take a look at the text of the `Banner` panel. Can you figure out how to edit the body text? Try using the `<strong></strong>` tag to bold words (stick them in between the tags). A full list of tags that you can try out including italics, strikethrough, etc are available here: [HTML Tags](https://www.w3schools.com/html/html_formatting.asp)
-2. Try replacing the image URL with `https://i.imgur.com/guwiBYZ.png` and refreshing the page. ![Change image URL](https://i.imgur.com/NmiJSK9.png)
-3. In the next panel `Spotlight`, change the education to match your information. Try adding clubs, sports, or other organizations that you're a part of. Here's a background image for you if you go to UC Berkeley `https://i.imgur.com/mYC0WjI.png`
+1. Each panel on the website is located under the `<!-- Panel -->` in the code. Additionally, each one will be in between `<section></section>` tags. All HTML items and elements are in between tags.
+2. Take a look at the text of the `Banner` panel. Can you figure out how to edit the body text? Try using the `<strong></strong>` tag to bold words (stick them in between the tags). A full list of tags that you can try out including italics, strikethrough, etc are available here: [HTML Tags](https://www.w3schools.com/html/html_formatting.asp)
+3. Try replacing the image URL with `https://i.imgur.com/guwiBYZ.png` and refreshing the page. ![Change image URL](https://i.imgur.com/NmiJSK9.png)
+4. In the next panel `Spotlight`, change the education to match your information. Try adding clubs, sports, or other organizations that you're a part of. Here's a background image for you if you go to UC Berkeley `https://i.imgur.com/mYC0WjI.png`
 
 ### Finishing Touches
 1. Customize the contact form message to have the personality you want to show.
 2. Start scrolling down through the code until you see the section with social media. Change these links to your own. If you don't have them, just delete the line. ![Social media](https://i.imgur.com/5V8y8cI.png)
-3. Try changing out some of the images for your own, or adding some more panels! You can see the full list of how to customize it, including buttons, quotes, and more in the bottom of the file. *Delete them when you're done!*
-4. To change the spacing and location of elements, try playing with the values of the `span` tag! Further customization can be done through learning HTML and CSS online for free. Try doing a Bing search for them!
-5. Want to get the contact form working after learning HTML? Try using this code from [GitHub](https://gist.github.com/ajtroxell/6731408)
+3. Try changing out some of the images for your own, or adding some more panels! You can see the full list of how to customize it, including buttons, quotes, and more in the bottom of the file.
+4. *Delete all the panels you didn't touch after you're done!* They're under the `<!-- Panel -->` tags and in between `<section></section>` tags.
+
+### Bonus
+1. To change the spacing and location of elements, try playing with the values of the `span` tag! Further customization can be done through learning HTML and CSS online for free. Try doing a Bing search for them!
+2. Want to get the contact form working after learning HTML? Try using this code from [GitHub](https://gist.github.com/ajtroxell/6731408)
 
 ## Part 2: Setting up Azure
 
