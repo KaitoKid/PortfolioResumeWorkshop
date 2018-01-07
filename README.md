@@ -1,5 +1,5 @@
 # Portfolio & Resume Workshop
-A portfolio and resume workshop with HTML5UP and deployed on Azure
+A portfolio and resume workshop with HTML5UP to be hosted on Azure
 
 ## Requirements
 
