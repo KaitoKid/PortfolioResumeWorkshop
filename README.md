@@ -3,7 +3,7 @@ A portfolio and resume workshop with HTML5UP and deployed on Azure
 
 ## Requirements
 
-1. Download the zip folder containing all of the sample code that you'll need over here: [Sample Code](https://download.com/files.zip)
+1. Download the zip folder containing all of the sample code that you'll need over here: [Sample Code](https://github.com/KaitoKid/PortfolioResumeWorkshop/archive/master.zip)
 2. Make sure you have a text editor for code like VSCode, Atom, or Sublime. My recommended is [VSCode](https://code.visualstudio.com/download)
 3. Getting an Azure account. Please follow this link, it will only work for 1 hour. [Azure Pass Claim](https://getazure.com)
 4. You will need an application called FileZilla over here: [FileZilla Download](https://filezilla-project.org/download.php?type=client)
