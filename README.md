@@ -22,7 +22,7 @@ A portfolio and resume workshop with HTML5UP to be hosted on Azure
 
 ### Step 3: Editing the basic website info
 1. Locate the text between the `<title>` tags, on line 7. This is the title of your website that will show up in the tab and for search engines. Change it to your name. ![Title](https://i.imgur.com/WmlYffT.png)
-2. If you refresh the page now, it should have the title updated! CHANGE TO EDGE. ![Tab title](https://i.imgur.com/nkhDgBt.png)
+2. If you refresh the page now, it should have the title updated. ![Tab title](https://i.imgur.com/nkhDgBt.png)
 3. At the bottom of the page, change the word `Untitled` to your name as well. Leave the `Design` since we're using their template. ![Copyright change](https://i.imgur.com/WYDxMd6.png)
 
 ### Step 4: Editing Body Text
