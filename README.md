@@ -23,17 +23,27 @@ A portfolio and resume workshop with HTML5UP and deployed on Azure
 ### Step 3: Editing the basic website info
 1. Locate the text between the `<title>` tags, on line 7. This is the title of your website that will show up in the tab and for search engines. Change it to your name. ![Title](https://i.imgur.com/WmlYffT.png)
 2. If you refresh the page now, it should have the title updated! CHANGE TO EDGE. ![Tab title](https://i.imgur.com/nkhDgBt.png)
-3. Start scrolling down through the code until you see the section with social media. Change these links to your own. If you don't have them, just delete the line. ![Social media](https://i.imgur.com/azwbLxZ.png)
-3. At the bottom of the page, change the word `Untitled` to your name as well. ![Copyright change](https://i.imgur.com/M7xuEuE.png)
+3. At the bottom of the page, change the word `Untitled` to your name as well. Leave the `Design` since we're using their template. ![Copyright change](https://i.imgur.com/WYDxMd6.png)
 
-### Step 4: Adding Bio info
-1. Scrolling down a bit more to line
+### Step 4: Editing Body Text
+1. Take a look at the text of the `Banner` panel. Can you figure out how to edit the body text? Try using the `<strong></strong>` tag to bold words (stick them in between the tags). A full list of tags that you can try out including italics, strikethrough, etc are available here: [HTML Tags](https://www.w3schools.com/html/html_formatting.asp)
+2. Try replacing the image URL with `https://i.imgur.com/guwiBYZ.png` and refreshing the page. ![Change image URL](https://i.imgur.com/NmiJSK9.png)
+3. In the next panel `Spotlight`, change the education to match your information. Try adding clubs, sports, or other organizations that you're a part of. Here's a background image for you if you go to UC Berkeley `https://i.imgur.com/mYC0WjI.png`
+
+### Finishing Touches
+1. Customize the contact form message to have the personality you want to show.
+2. Start scrolling down through the code until you see the section with social media. Change these links to your own. If you don't have them, just delete the line. ![Social media](https://i.imgur.com/5V8y8cI.png)
+3. Try changing out some of the images for your own, or adding some more panels! You can see the full list of how to customize it, including buttons, quotes, and more in the original source code here: [HTML5UP Ethereal](https://html5up.net/ethereal)
+4. To change the spacing and location of elements, try playing with the values of the `span` tag! Further customization can be done through learning HTML and CSS online for free. Try doing a Bing search for them! 
+
 ## Part 2: Setting up Azure
 
 ### Activate Your Azure Pass
 This can be done following the instructions [here](https://www.microsoftazurepass.com/Home/HowTo). It will take around 5 minutes to complete.
 
 ### Create Your Web App
+
+### Connect to App With FileZilla
 
 ## FAQ
 
