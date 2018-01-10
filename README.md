@@ -1,6 +1,8 @@
 # Portfolio & Resume Workshop
 A portfolio and resume workshop with HTML5UP to be hosted on Azure
 
+Written originally for Microsoft Student Partners
+
 ## Requirements
 
 1. Download the zip folder containing all of the sample code that you'll need over here: [Sample Code](https://github.com/KaitoKid/PortfolioResumeWorkshop/archive/master.zip)
