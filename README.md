@@ -3,6 +3,14 @@ A portfolio and resume workshop with HTML5UP to be hosted on Azure
 
 Written originally for Microsoft Student Partners
 
+## Table of Contents
+
+* Requirements
+* Part 1: Setup Code
+* [Part 2: Setup Azure and FTP](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#part-2-setting-up-web-host)
+* [Extras for Experts](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#check-out-your-new-portfolio-online)
+* FAQ
+
 ## Requirements
 
 1. Download the zip folder containing all of the sample code that you'll need over here: [Sample Code](https://github.com/KaitoKid/PortfolioResumeWorkshop/archive/master.zip)
@@ -10,7 +18,7 @@ Written originally for Microsoft Student Partners
 3. Getting an Azure account. Please follow this link, it will only work for 1 hour. **GetAzure**
 4. You will need an application called FileZilla over here: [FileZilla Download](https://filezilla-project.org/download.php?type=client)
 
-## Setup Code
+## Part 1: Setup Code
 
 ### Step 1: Open the sample code
 1. Extract the folder from the zip file. It should be called `EtherealMSP`.
@@ -65,7 +73,7 @@ Click on `New`, select `Web + Mobile` and choose `Web App` ![Deploy web app](htt
 3. Go back, check `Pin to Dashboard` and click `Create`
 
 #### Deploy
-Wait for it to deploy! This is your dashboard. [Waiting for app to deploy](https://i.imgur.com/ehjeW8v.png)
+Wait for it to deploy! This is your dashboard. ![Waiting for app to deploy](https://i.imgur.com/ehjeW8v.png)
 
 #### Create FTP credentials
 1. Your app will automatically open when it's deployed. If it's not, click on it from your Dashboard.
@@ -84,10 +92,10 @@ Check the box `Always trust certificate` and click `Ok` to login quicker next ti
 1. In FileZilla, the left side is your computer. The right side is your app.
 2. Open up the `site` folder on FileZilla and then open up the `wwwroot` folder.
 3. Navigate where your project `MSPEthereal` is on the left side.
-4. Select all of the files and folder, and drag + drop them onto the right side to upload them. ![Copy paste](https://i.imgur.com/nUGzder.png)
+4. Select all of the files and folder, and `drag + drop` them onto the right side to upload them. ![Copy paste](https://i.imgur.com/nUGzder.png)
 5. Now, navigate to your `Yourappname.azurewebsites.net` where your app name is what you had named your app. If you forgot, you can find it under `Properties` in Azure. ![App URL](https://i.imgur.com/03qaGsF.png)
 
-## Check out your new portfolio online!
+** Congratulations! You've just created your own portfolio! Take a breather and admire your creation **
 
 ## Extras for Experts
 1. If you want to use your own domain name (i.e. `https://kairui.xyz`) you have to set up a CDN on Azure and point your domain to the nameservers
