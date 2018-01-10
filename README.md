@@ -52,17 +52,31 @@ This can be done following the instructions [here](https://www.microsoftazurepas
 
 ### Create Your Web App
 1. Click on `New`, select `Web + Mobile` and choose `Web App` ![Deploy web app](https://i.imgur.com/wspR5CT.png)
-2. Wait for it to deploy ![Waiting for app to deploy](https://i.imgur.com/ehjeW8v.png)
-
-### Configuring Web App
-
-1. Choose a name for your portfolio. You can only use letters, numbers, and dashes ![App name](https://i.imgur.com/DJ5bIOS.png)
-2. Click on `App Service Plan/Location` and create a new one. 
-3. Name your service plan whatever you want, and click on `Pricing Tier`
-4. Scroll down to choose the `F1 Free` tier and click `Ok` ![Pricing tier](https://i.imgur.com/xdMCFic.png)
-5. Go back and click `Create`
+2. Choose a name for your portfolio. You can only use letters, numbers, and dashes ![App name](https://i.imgur.com/DJ5bIOS.png)
+3. Click on `App Service Plan/Location` and create a new one. 
+4. Name your service plan whatever you want, and click on `Pricing Tier`
+5. Scroll down to choose the `F1 Free` tier and click `Ok` ![Pricing tier](https://i.imgur.com/xdMCFic.png)
+6. Go back, check `Pin to Dashboard` and click `Create`
+7. Wait for it to deploy! This is your dashboard. [Waiting for app to deploy](https://i.imgur.com/ehjeW8v.png)
 
 ### Connect to App With FileZilla
+1. Your app will automatically open when it's deployed. If it's not, click on it from your Dashboard.
+2. Create a username and password through `Deployment credentials` to log into your app. ![Create credentials](https://i.imgur.com/rHAbVf8.png)
+3. Once your credentials are saved, scroll down the sidebar a bit and click on `Properties` ![Created credentials](https://i.imgur.com/oWBuyRy.png)
+4. **Open up FileZilla**. Copy the `FTPS Host Name` into FileZilla, use the `FTP Deplyment User` and password you had just created, and click `Quick Connect` ![FileZilla](https://i.imgur.com/Rf55z7g.png)
+5. Check the box `Always trust certificate` and click `Ok` to login quicker next time. ![Trust](https://i.imgur.com/h223iuc.png)
+
+### Uploading Your Portfolio
+1. In FileZilla, the left side is your computer. The right side is your app.
+2. Open up the `site` folder on FileZilla and then open up the `wwwroot` folder.
+3. Navigate where your project `MSPEthereal` is on the left side.
+4. Select all of the files and folder, and drag + drop them onto the right side to upload them. ![Copy paste](https://i.imgur.com/nUGzder.png)
+5. Now, navigate to your `Yourappname.azurewebsites.net` where your app name is what you had named your app. If you forgot, you can find it under `Properties` in Azure. ![App URL](https://i.imgur.com/03qaGsF.png)
+6. Check out your new portfolio online!
+
+## Extras for Experts
+1. If you want to use your own domain name (i.e. `https://kairui.xyz`) you have to set up a CDN on Azure and point your domain to the nameservers
+2. Want to set up HTTPS? Check our CloudFlare for free HTTPS
 
 ## FAQ
 
@@ -71,3 +85,6 @@ If it looks like this, you must've not extracted/uploaded the files properly. Pl
 
 ### 2. How do I load images from Azure instead of `Imgur`?
 Put the image files into the folder `/images` and use the URL `images/myImageName.jpg`. Make sure you have the extension right!
+
+### 3. How much does hosting on Azure cost?
+It's free! If you make a CDN and have your own domain name, it'll cost *$1* per *20,000* visitors or so.
