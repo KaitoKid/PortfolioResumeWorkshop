@@ -97,7 +97,7 @@ Check the box `Always trust certificate` and click `Ok` to login quicker next ti
 4. Select all of the files and folder, and `drag + drop` them onto the right side to upload them. ![Copy paste](https://i.imgur.com/nUGzder.png)
 5. Now, navigate to your `Yourappname.azurewebsites.net` where your app name is what you had named your app. If you forgot, you can find it under `Properties` in Azure. ![App URL](https://i.imgur.com/03qaGsF.png)
 
-** Congratulations! You've just created your own portfolio! Take a breather and admire your creation **
+**Congratulations! You've just created your own portfolio! Take a breather and admire your creation **
 
 ## Extras for Experts
 1. If you want to use your own domain name (i.e. `https://kairui.xyz`) you have to set up a CDN on Azure and point your domain to the nameservers
