@@ -3,7 +3,7 @@ A portfolio and resume workshop with HTML5UP to be hosted on Azure
 
 Written originally for **Microsoft Student Partners**
 
-Demo final result: https://kairui-portfolio.azurewebsites.net
+Demo of what you'll walk away with from this workshop: https://kairui-portfolio.azurewebsites.net
 
 ## Table of Contents
 
