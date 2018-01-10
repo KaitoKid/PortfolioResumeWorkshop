@@ -1,7 +1,7 @@
 # Portfolio & Resume Workshop
 A portfolio and resume workshop with HTML5UP to be hosted on Azure
 
-Written originally for Microsoft Student Partners
+Written originally for **Microsoft Student Partners**
 
 ## Table of Contents
 
