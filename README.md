@@ -5,11 +5,11 @@ Written originally for Microsoft Student Partners
 
 ## Table of Contents
 
-* Requirements
-* Part 1: Setup Code
+* [Requirements](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#requirements)
+* [Part 1: Setup Code](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#setup-code)
 * [Part 2: Setup Azure and FTP](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#part-2-setting-up-web-host)
-* [Extras for Experts](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#check-out-your-new-portfolio-online)
-* FAQ
+* [Extras for Experts](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#extras-for-experts)
+* [FAQ](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#faq)
 
 ## Requirements
 
