@@ -8,8 +8,9 @@ Demo of what you'll walk away with from this workshop: https://kairui-portfolio.
 ## Table of Contents
 
 * [Requirements](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#requirements)
-* [Part 1: Setup Code](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#setup-code)
-* [Part 2: Setup Azure and FTP](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#part-2-setting-up-web-host)
+* [Part 1: Setup Azure](https://github.com/KaitoKid/PortfolioResumeWorkshop#part-1-setup-azure)
+* [Part 2: Setup Code](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#setup-code)
+* [Part 3: Setup Azure and FTP](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#part-2-setting-up-web-host)
 * [Extras for Experts](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#extras-for-experts)
 * [FAQ](https://github.com/KaitoKid/PortfolioResumeWorkshop/blob/master/README.md#faq)
 
