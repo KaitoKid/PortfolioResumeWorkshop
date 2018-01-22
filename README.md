@@ -17,10 +17,17 @@ Demo of what you'll walk away with from this workshop: https://kairui-portfolio.
 
 1. Download the zip folder containing all of the sample code that you'll need over here: [Sample Code](https://github.com/KaitoKid/PortfolioResumeWorkshop/archive/master.zip)
 2. Make sure you have a text editor for code like VSCode, Atom, or Sublime. My recommended is [VSCode](https://code.visualstudio.com/download)
-3. Getting an Azure account. Please follow this link and sign up with your school email and the access code given to you. **GetAzure**
+3. Getting an Azure account. Please follow this link and sign up with your school email and the access code given to you. [Azure Pass](http://distributr.io)
 4. You will need an application called FileZilla over here: [FileZilla Download](https://filezilla-project.org/download.php?type=client)
 
-## Part 1: Setup Code
+## Part 1: Setup Azure
+
+### Activate Your Azure Pass
+This can be done following the instructions [here](https://www.microsoftazurepass.com/Home/HowTo). It will take around 5 minutes to complete.
+
+**If it asks you for your credit card information, just refresh the page**
+
+## Part 2: Setup Code
 
 ### Step 1: Open the sample code
 1. Extract the folder from the zip file. It should be called `EtherealMSP`.
@@ -53,20 +60,18 @@ Demo of what you'll walk away with from this workshop: https://kairui-portfolio.
 1. To change the spacing and location of elements, try playing with the values of the `span` tag! Further customization can be done through learning HTML and CSS online for free. Try doing a Bing search for them!
 2. Want to get the contact form working after learning HTML? Try using this code from [GitHub](https://gist.github.com/ajtroxell/6731408)
 
-## Part 2: Setting up Web Host
+## Part 3: Setting up Web Host
 
 For this, there are many ways to host your website, such as through GitHub, your university if they offer it, or many of the website hosting providers online. In this guide, we will cover how to do it on Azure, however these skills are transferrable.
 
-### Activate Your Azure Pass
-This can be done following the instructions [here](https://www.microsoftazurepass.com/Home/HowTo). It will take around 5 minutes to complete.
-
 ### Create Your Web App
+Make sure you're in the [Azure Portal](https://portal.azure.com).
 
 #### Make the app
 Click on `New`, select `Web + Mobile` and choose `Web App` ![Deploy web app](https://i.imgur.com/7xr7YAf.png)
 
 #### Name your app
-1. Choose a name for your portfolio. You can only use letters, numbers, and dashes 
+1. Choose a name for your portfolio. You can only use letters, numbers, and dashes
 2. Click on `App Service Plan/Location` and create a new one. ![App name](https://i.imgur.com/DJ5bIOS.png)
 
 #### Change the Service Plan
